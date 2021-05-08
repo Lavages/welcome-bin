@@ -1,0 +1,9 @@
+Bearded Dragon		10000
+
+Leopard Gecko		6000
+
+Blue Tounge Skink	15000
+
+Ball Python		5000
+
+Hedgehog		1500
